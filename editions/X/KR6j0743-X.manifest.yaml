@@ -1,0 +1,688 @@
+canonical_identifier: bkk:krp/KR6j0743/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0743/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 看命一掌金
+  identifiers:
+    krp: KR6j0743
+    cbeta: X59n1043
+    cbeta_old_id: X59n1043
+    authorityid: CA0001916
+    json_key: X1043
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1043.xml
+    old_id: X59n1043
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0743_000-X.yaml, hash: 'sha256:83532a3dd87fe500a106734a0e75795ea1b95fb4b8153dfb94aae7caf475a0b6'}
+  - {seq: 1, filename: KR6j0743_001-X.yaml, hash: 'sha256:28b517d38f3257d4a1609e4bc588bc5f3bf5777278df47b95472892368c8532f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0743_000-X.markers.yaml, hash: 'sha256:e1423c5127471ed4f21f13a57b63c13c7ab2f94a7e854e6f98a33fefd49dffc8'}
+  - {seq: 1, role: markers, filename: assets/KR6j0743_001-X.markers.yaml, hash: 'sha256:8142e503ca91eeeb9771cdfb441d9ecba3df24e1b1f79e95beee156268704fde'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7410
+  label: 看命一掌金
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-2
+    span:
+    - body
+    - 871
+    - 871
+  label: 新刻看命一掌金
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-3
+    span:
+    - body
+    - 891
+    - 891
+  label: 十二星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-4
+    span:
+    - body
+    - 891
+    - 891
+  label: 佛道天貴星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-5
+    span:
+    - body
+    - 998
+    - 998
+  label: 鬼道天厄星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-6
+    span:
+    - body
+    - 1089
+    - 1089
+  label: 人道天權星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-7
+    span:
+    - body
+    - 1199
+    - 1199
+  label: 畜道天破星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-8
+    span:
+    - body
+    - 1280
+    - 1280
+  label: 脩羅道天奸星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-9
+    span:
+    - body
+    - 1412
+    - 1412
+  label: 仙道天文星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-10
+    span:
+    - body
+    - 1547
+    - 1547
+  label: 佛道天福星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-11
+    span:
+    - body
+    - 1651
+    - 1651
+  label: 鬼道天驛星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-12
+    span:
+    - body
+    - 1784
+    - 1784
+  label: 人道天孤星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-13
+    span:
+    - body
+    - 1915
+    - 1915
+  label: 畜道天刃星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-14
+    span:
+    - body
+    - 2046
+    - 2046
+  label: 脩羅道天藝星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-15
+    span:
+    - body
+    - 2168
+    - 2168
+  label: 仙道天壽星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-16
+    span:
+    - body
+    - 2289
+    - 2289
+  label: 十二星總論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-17
+    span:
+    - body
+    - 2923
+    - 2923
+  label: 論十二月生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-18
+    span:
+    - body
+    - 2960
+    - 2960
+  label: 正月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-19
+    span:
+    - body
+    - 3026
+    - 3026
+  label: 二月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-20
+    span:
+    - body
+    - 3087
+    - 3087
+  label: 三月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-21
+    span:
+    - body
+    - 3156
+    - 3156
+  label: 四月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-22
+    span:
+    - body
+    - 3222
+    - 3222
+  label: 五月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-23
+    span:
+    - body
+    - 3294
+    - 3294
+  label: 六月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-24
+    span:
+    - body
+    - 3358
+    - 3358
+  label: 七月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-25
+    span:
+    - body
+    - 3424
+    - 3424
+  label: 八月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-26
+    span:
+    - body
+    - 3485
+    - 3485
+  label: 九月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-27
+    span:
+    - body
+    - 3569
+    - 3569
+  label: 十月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-28
+    span:
+    - body
+    - 3638
+    - 3638
+  label: 十一月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-29
+    span:
+    - body
+    - 3709
+    - 3709
+  label: 十二月生人詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-30
+    span:
+    - body
+    - 3743
+    - 3743
+  label: 論每月三十日內輪該吉凶星在命
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-31
+    span:
+    - body
+    - 3757
+    - 3757
+  label: 初一　初七　十三　十九　二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-32
+    span:
+    - body
+    - 3815
+    - 3815
+  label: 初二　初八　十四　二十　二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-33
+    span:
+    - body
+    - 3864
+    - 3864
+  label: 初三　初九　十五　二十一　二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-34
+    span:
+    - body
+    - 3939
+    - 3939
+  label: 初四　初十　十六　二十二　二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-35
+    span:
+    - body
+    - 3988
+    - 3988
+  label: 初五　十一　十七　二十三　二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-36
+    span:
+    - body
+    - 4034
+    - 4034
+  label: 初六　十二　十八　二十四　三十日
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-37
+    span:
+    - body
+    - 4091
+    - 4091
+  label: 論十二時生人吉凶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-38
+    span:
+    - body
+    - 4099
+    - 4099
+  label: 子時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-39
+    span:
+    - body
+    - 4151
+    - 4151
+  label: 丑時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-40
+    span:
+    - body
+    - 4204
+    - 4204
+  label: 寅時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-41
+    span:
+    - body
+    - 4261
+    - 4261
+  label: 卯時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-42
+    span:
+    - body
+    - 4316
+    - 4316
+  label: 辰時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-43
+    span:
+    - body
+    - 4369
+    - 4369
+  label: 巳時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-44
+    span:
+    - body
+    - 4416
+    - 4416
+  label: 午時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-45
+    span:
+    - body
+    - 4462
+    - 4462
+  label: 未時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-46
+    span:
+    - body
+    - 4512
+    - 4512
+  label: 申時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-47
+    span:
+    - body
+    - 4568
+    - 4568
+  label: 酉時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-48
+    span:
+    - body
+    - 4612
+    - 4612
+  label: 戌時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-49
+    span:
+    - body
+    - 4672
+    - 4672
+  label: 亥時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-50
+    span:
+    - body
+    - 4727
+    - 4727
+  label: 論十二時初中末生人吉凶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-51
+    span:
+    - body
+    - 4738
+    - 4738
+  label: 子時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-52
+    span:
+    - body
+    - 4937
+    - 4937
+  label: 丑時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-53
+    span:
+    - body
+    - 5109
+    - 5109
+  label: 寅時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-54
+    span:
+    - body
+    - 5323
+    - 5323
+  label: 卯時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-55
+    span:
+    - body
+    - 5547
+    - 5547
+  label: 辰時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-56
+    span:
+    - body
+    - 5800
+    - 5800
+  label: 巳時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-57
+    span:
+    - body
+    - 6015
+    - 6015
+  label: 午時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-58
+    span:
+    - body
+    - 6186
+    - 6186
+  label: 未時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-59
+    span:
+    - body
+    - 6345
+    - 6345
+  label: 申時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-60
+    span:
+    - body
+    - 6495
+    - 6495
+  label: 酉時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-61
+    span:
+    - body
+    - 6654
+    - 6654
+  label: 戌時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-62
+    span:
+    - body
+    - 6765
+    - 6765
+  label: 亥時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-63
+    span:
+    - body
+    - 6926
+    - 6926
+  label: 結語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-64
+    span:
+    - body
+    - 7032
+    - 7032
+  label: 推人五命得病忌日
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0743_X_001-mulu-65
+    span:
+    - body
+    - 7222
+    - 7222
+  label: 論十二時歌
+  type: mulu
+  level: 1
+hash: sha256:af7b3df5e9d8ff541178b0888456a01bf4cf3dbb5d4a54e430fdc719d33f1662
