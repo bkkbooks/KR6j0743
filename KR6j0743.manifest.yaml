@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0743_000.yaml, hash: 'sha256:83532a3dd87fe500a106734a0e75795ea1b95fb4b8153dfb94aae7caf475a0b6'}
-  - {seq: 1, filename: KR6j0743_001.yaml, hash: 'sha256:5bf86152863796a5cfbf106572a9cce3886715b8f25325f86c4d312c35f3efc2'}
+  - {seq: 1, filename: KR6j0743_001.yaml, hash: 'sha256:28b517d38f3257d4a1609e4bc588bc5f3bf5777278df47b95472892368c8532f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0743_001.markers.yaml, hash: 'sha256:c77739959dfc96ca15286051f2e9b74bb8c9ef53464f4a7cac24c97fe2da40ce'}
+  - {seq: 0, role: markers, filename: assets/KR6j0743_000.markers.yaml, hash: 'sha256:842fba0c4ccb5c9f1cb843794f79c4f86cf5b352b623668c895860a09291c833'}
+  - {seq: 1, role: markers, filename: assets/KR6j0743_001.markers.yaml, hash: 'sha256:735b5a43712ecbd185234835693b0769ca642f2c899b6c074ce3c48756ee527d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -686,7 +687,4 @@ table_of_contents:
   label: 論十二時歌
   type: mulu
   level: 1
-hash: sha256:20e2b1b558de90a9320e228281dbdfd1cd35b4f203ceaa2d9ab054035aebfb11
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6ac55cf09222903336c99c7b26a26ad3a47ad6ff1cb9dcfbcdb1dec30dda96f8
