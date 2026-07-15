@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0743/v1
 canonical_location: https://kanripo.org/bkk/KR6j0743/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 看命一掌金
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0743_000.yaml, hash: 'sha256:83532a3dd87fe500a106734a0e75795ea1b95fb4b8153dfb94aae7caf475a0b6'}
-  - {seq: 1, filename: KR6j0743_001.yaml, hash: 'sha256:28b517d38f3257d4a1609e4bc588bc5f3bf5777278df47b95472892368c8532f'}
+  - {seq: 1, filename: KR6j0743_001.yaml, hash: 'sha256:111e8a139f5406ba5e5f910ad46c0bbf80d80b8ff00226e99be192f30808d8c3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0743_000.markers.yaml, hash: 'sha256:842fba0c4ccb5c9f1cb843794f79c4f86cf5b352b623668c895860a09291c833'}
-  - {seq: 1, role: markers, filename: assets/KR6j0743_001.markers.yaml, hash: 'sha256:735b5a43712ecbd185234835693b0769ca642f2c899b6c074ce3c48756ee527d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0743_001.markers.yaml, hash: 'sha256:d78700ba0751428a0f33fd7fe10be18e36665224fee84768a84c7798f9067739'}
 table_of_contents:
 - ref:
     seq: 1
@@ -687,4 +687,7 @@ table_of_contents:
   label: 論十二時歌
   type: mulu
   level: 1
-hash: sha256:6ac55cf09222903336c99c7b26a26ad3a47ad6ff1cb9dcfbcdb1dec30dda96f8
+hash: sha256:fc6b4d4c0296d5d6438f768626c55cba93b3eb05d65769fc0bbab750858645ab
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
